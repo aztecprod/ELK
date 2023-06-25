@@ -5,7 +5,7 @@
 ![image](https://github.com/aztecprod/ELK/assets/25949605/7f815889-f0f5-4dc7-a061-41e9db924104)
 ![image](https://github.com/aztecprod/ELK/assets/25949605/0138be62-e662-46ce-a90d-68d040af2d1a)
 
-/etc/logstash/logstash.yml
+/etc/logstash/conf.d/nginx.conf
 
 ```
 input {
